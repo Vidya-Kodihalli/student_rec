@@ -1,2 +1,3 @@
 # student_rec
-record
+hi all students
+hello
